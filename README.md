@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Kishore and I'm a Cool Computer Bug from Earth</h2>
+<h2 align="left">Hi 👋! My name is Kishore and I'm a Cool Computer Bug from Earth</h2>
 
 ###
 
@@ -40,4 +40,3 @@
 </div>
 
 ###
-
